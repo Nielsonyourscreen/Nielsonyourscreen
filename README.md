@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Nielsonyourscreen
-- 👀 I’m interested in running, coding 
-- 🌱 I’m currently learning how to do frequent half marathons, and the basics of web dev - HTML/CSS/JS
-- 💞️ I’m looking to collaborate on making simple websites, hands-on approach 
+- 👀 I’m interested in programming : the trinity of web dev HTML / CSS / JS,and more to follow. 
+- 💞️ Personnally, I would love to collaborate on making simple websites, apps. Professionally, I am keen on becoming a web dev junior.  
 - 📫 How to reach me =  +31611764863 
 
 <!---
